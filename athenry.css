@@ -1,0 +1,12 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 6em;
+    color: rgb(29, 69, 29);
+    border:rgb(59, 92, 59) solid 3px;
+    border-radius: 6px;
+    background-color: beige;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    margin-top: 2em;
+}
